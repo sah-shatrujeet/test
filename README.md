@@ -1,2 +1,2 @@
 # test
-This project is creted for learning purpose.
+This project is created just for learning purpose.
