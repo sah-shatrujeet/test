@@ -1,2 +1,2 @@
 # test
-This is for short practice
+This project is creted for learning purpose.
